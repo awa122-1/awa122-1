@@ -173,7 +173,7 @@ Minecraft          ███████████████░░░░░
 | 🎹 **Phigros**                 | 🎵 Playing |
 | 🎼 **Milthm**                  | 🎵 Playing |
 | 🌀 **A Dance of Fire and Ice** | 💀 菜到爆     |
-| 🎶 **NOtaNoto**                | 🎵 Playing |
+| 🎶 **NotaNote**                | 🎵 Playing |
 
 </div>
 
