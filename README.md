@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **awa122-1**
 
-### `chovy` · Developer · Modder · Rhythm Game Player
+### `芙酱awa` · Developer · Modder · Rhythm Game Player
 
 **C# / .NET / Unity / HTML5**
 
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-你好，我是 **awa122-1**，也可以叫我 **chovy**。
+你好，我是 **芙酱awa**，也可以叫我 **awa1221**。
 
 我主要使用 **C# / .NET / Unity / HTML5**，平时喜欢研究游戏 Mod、汉化、工具以及各种奇奇怪怪的项目。
 
