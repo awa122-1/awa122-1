@@ -209,8 +209,8 @@ Minecraft          ███████████████░░░░░
 # 🧩 Developer Profile
 
 ```yaml
-name: awa122-1
-nickname: chovy
+name: 芙酱awa
+nickname: awa122-1
 
 languages:
   - C#
