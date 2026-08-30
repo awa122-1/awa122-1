@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **awa122-1**
+# 👋 Hi, I'm **Tfujiang**
 
 ### `芙酱awa` · Developer · Modder · Rhythm Game Player
 
