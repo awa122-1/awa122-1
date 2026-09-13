@@ -12,7 +12,6 @@
 > 💻 I write code.
 > 🛠️ I make mods.
 > 🎵 I play rhythm games.
-> 🗿 没事 a 没事。
 
 </div>
 
@@ -20,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-你好，我是 **芙酱awa**，也可以叫我 **awa1221**。
+你好，我是 **芙酱awa**
 
 我主要使用 **C# / .NET / Unity / HTML5**，平时喜欢研究游戏 Mod、汉化、工具以及各种奇奇怪怪的项目。
 
@@ -179,93 +178,6 @@ Minecraft          ███████████████░░░░░
 
 ---
 
-# 🎧 My Rhythm Game Philosophy
-
-```text
-          ┌─────────────────────┐
-          │      Find a song    │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │     Play the song   │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │       FC?           │
-          └──────┬───────┬──────┘
-                 │       │
-                YES      NO
-                 │       │
-                 ▼       ▼
-              开心      再打一遍
-                         │
-                         └───────► ∞
-```
-
----
-
-# 🧩 Developer Profile
-
-```yaml
-name: 芙酱awa
-nickname: awa122-1
-
-languages:
-  - C#
-  - HTML5
-  - .NET
-
-interests:
-  - Game Modding
-  - Game Localization
-  - Rhythm Games
-  - Minecraft
-  - Unity
-  - Web Development
-
-currently:
-  status: "没事a没事"
-  motivation: "折腾点好玩的东西"
-
-favorite_debug_message:
-  - "为什么又报错了"
-  - "昨天不是还能跑吗"
-  - "算了，重开"
-```
-
----
-
-# 📌 A Little Story
-
-**别人：** 有话说吗？
-
-**我：** 没话说。
-
-**别人：** 玩啥？
-
-**我：**
-
-```text
-Among Us
-Phigros
-NOtaNoto
-ADOFAI
-Arcaea
-Milthm
-Minecraft
-AWMC
-CHUNITHM
-Taiko
-```
-
-**别人：** 你说这么多干嘛？
-
-**我：**
-
-> **我 chovy。**
-
 ---
 
 # 🌟 Fun Facts
@@ -292,20 +204,8 @@ Taiko
 
 <br>
 
-`while (true)`
 
-`{`
 
-`    code();`
-
-`    play();`
-
-`    repeat();`
-
-`}`
-
-<br>
-
-### 🗿 没事 a 没事
-
-</div>
+<a href="https://space.bilibili.com/1682798870">
+    <img src="https://img.shields.io/badge/Bilibili-FF7590?&logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" />
+  </a>
